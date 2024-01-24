@@ -16,3 +16,9 @@ Commit for day 15
 Commit for day 16
 Commit for day 17
 Commit for day 18
+Commit for day 19
+Commit for day 20
+Commit for day 21
+Commit for day 22
+Commit for day 23
+Commit for day 24
